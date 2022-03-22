@@ -1,1 +1,2 @@
-# -React-Tenzies_game
+# React
+Tenzies game
